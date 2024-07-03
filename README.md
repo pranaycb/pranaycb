@@ -31,7 +31,7 @@ const pranaycb = {
     },
     architecture: ["Micro Service", "PWA", "Single Page Application"],
     currentFocus: "Have to increase my CGPA :)",
-    funFact: "Senior Developers ae also copy paste code from Github :)"
+    funFact: "Senior Developers also copy paste code from Github :)"
 };
 ```
 
